@@ -15,7 +15,7 @@ The variable "IS_SUCCSEFUL" was considered the target for this model, and all th
 In terms of the model, the Rectified Linear Unit (Relu) was used for the activiation of the function for the first and second hidden layers, and a
 the Sigmoid activation function is used for the output layer. Also, a callback that saves the model weight every 5 epochs was set. After setting these parameters, the results that we had were the next:
 
-* Insert Test1*
+![](https://github.com/JoseLuisMontemayor/Neural_Network_Charity_Analysis/blob/main/Resources/Test1.PNG)
 
 We can see that the accuracy level was 72.88%, even though it´s a good percentage, it isn´t the score we were looking for. 
 
