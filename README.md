@@ -22,3 +22,7 @@ We can see that the accuracy level was 72.88%, even though it´s a good percenta
 * Insert Test2*
 
 For the Optimization Model we just increased by 50 the application counts, which it didn´t make much of a difference, the accuracy actually decreased by .23%. Perhaps a real change in the result would be reflected by modifying the numbers of the hidden layers. 
+
+### Summary 
+
+With the trials conducted we weren´t able to produce a model with an efficiency level of at least 75%, even though we were close. There can be a variety of possibilites of why we didn´t reach our goal, the data that would need to be manipulated to approach the desired result would be the number of neurons in the hidden layers, the number of epochs per interval, and other outliers that could have been on the data.  
