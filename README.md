@@ -19,7 +19,7 @@ the Sigmoid activation function is used for the output layer. Also, a callback t
 
 We can see that the accuracy level was 72.88%, even though it´s a good percentage, it isn´t the score we were looking for. 
 
-* Insert Test2*
+![](https://github.com/JoseLuisMontemayor/Neural_Network_Charity_Analysis/blob/main/Resources/Test2.PNG)
 
 For the Optimization Model we just increased by 50 the application counts, which it didn´t make much of a difference, the accuracy actually decreased by .23%. Perhaps a real change in the result would be reflected by modifying the numbers of the hidden layers. 
 
