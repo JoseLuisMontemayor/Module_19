@@ -17,7 +17,7 @@ the Sigmoid activation function is used for the output layer. Also, a callback t
 
 ![](https://github.com/JoseLuisMontemayor/Neural_Network_Charity_Analysis/blob/main/Resources/Test1.PNG)
 
-We can see that the accuracy level was 72.88%, even though it´s a good percentage, it isn´t the score we were looking for. 
+We can see that the accuracy level was 72.88%, even though it´s a good percentage, it isn´t the score we were looking for. For the results of the optimization model we have the next information:
 
 ![](https://github.com/JoseLuisMontemayor/Neural_Network_Charity_Analysis/blob/main/Resources/Test2.PNG)
 
